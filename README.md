@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tran Quang Nguyen
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning front-end, back-end, mobile
+- 👀 I’m interested in web development
+- 🌱 I’m currently developing front-end, back-end, mobile, web3
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me tranquangnguyen.dev@gmail.com
 
