@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently developing front-end, back-end, mobile, web3
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me tranquangnguyen.dev@gmail.com
+- 📫 How to reach me nguyentran.dev@outlook.com
 
 <!---
 nguyen2887/nguyen2887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
